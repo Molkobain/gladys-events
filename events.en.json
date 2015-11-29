@@ -83,5 +83,17 @@
 		"BeautifulName":"Lamp color changed", 
 		"faIcon": "fa fa-sliders", 
 		"iconColor": "bg-purple"
+	},
+	{ 
+		"name": "temperature",
+		"BeautifulName":"New temperature measured in room.", 
+		"faIcon": "fa fa-sun-o", 
+		"iconColor": "bg-yellow"
+	},
+	{ 
+		"name": "humidity",
+		"BeautifulName":"New humidity measured in room.", 
+		"faIcon": "fa fa-tint", 
+		"iconColor": "bg-light-blue"
 	}
 ]
