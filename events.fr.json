@@ -1,0 +1,99 @@
+[
+	{ 
+		"name": "gladysInstallation", 
+		"BeautifulName": "Gladys installée",
+		"faIcon": "fa fa-desktop", 
+		"iconColor": "bg-black"
+	},
+	{ 
+		"name": "gladysUpdate", 
+		"BeautifulName": "Gladys mise à jour",
+		"faIcon": "fa fa-wrench", 
+		"iconColor": "bg-black"
+	},
+	{ 
+		"name": "wakeUp", 
+		"BeautifulName" : "Réveil", 
+		"faIcon" : "fa fa-bed", 
+		"iconColor": "bg-yellow"
+	},
+	{ 
+		"name": "goingToSleep", 
+		"BeautifulName": "Aller se coucher",
+		"faIcon": "fa fa-bed",
+		"iconColor": "bg-blue"
+	},
+	{ 
+		"name": "playMusic", 
+		"BeautifulName":"Jouer de la musique",
+		"faIcon": "fa fa-music", 
+		"iconColor":"bg-orange" 
+	},
+	{ 
+		"name": "sendMail",
+		"BeautifulName":"Email envoyé",
+		"faIcon": "fa fa-paper-plane", 
+		"iconColor":"bg-green" 
+	},
+	{ 
+		"name": "motion",
+		"BeautifulName":"Mouvement détecté",
+		"faIcon": "fa fa-rss", 
+		"iconColor":"bg-green" 
+	},
+	{ 
+		"name": "received433UnknownValue", 
+		"BeautifulName":"Signal 433Mhz inconnu reçu",
+		"faIcon": "fa fa-rss", 
+		"iconColor":"bg-green", 
+		"display":"none"
+	},
+	{ 
+		"name": "backAtHome", 
+		"BeautifulName":"Arrivé à la maison",
+		"faIcon": "fa fa-home", 
+		"iconColor": "bg-light-blue"
+	},
+	{ 
+		"name": "leftHome", 
+		"BeautifulName":"Sorti de la maison",
+		"faIcon": "fa fa-home", 
+		"iconColor":"bg-light-blue"
+	},
+	{ 
+		"name": "lampOn", 
+		"BeautifulName": "Lampe allumée",
+		"faIcon" : "fa fa-power-off", 
+		"iconColor": "bg-yellow"
+	},
+	{ 
+		"name": "lampOff", 
+		"BeautifulName": "Lampe éteinte",
+		"faIcon": "fa fa-power-off", 
+		"iconColor": "bg-black"
+	},
+	{ 
+		"name": "lampBrightnessChange",
+		"BeautifulName":"Luminosité de la lampe changée",
+		"faIcon": "fa fa-sliders", 
+		"iconColor": "bg-light-blue"
+	},
+	{ 
+		"name": "lampColorChange",
+		"BeautifulName":"Couleur de la lampe changée", 
+		"faIcon": "fa fa-sliders", 
+		"iconColor": "bg-purple"
+	},
+	{ 
+		"name": "temperature",
+		"BeautifulName":"Nouvelle mesure de température dans la pièce",
+		"faIcon": "fa fa-sun-o", 
+		"iconColor": "bg-yellow"
+	},
+	{ 
+		"name": "humidity",
+		"BeautifulName":"Nouvelle mesure d'humidité dans la pièce",
+		"faIcon": "fa fa-tint", 
+		"iconColor": "bg-light-blue"
+	}
+]
