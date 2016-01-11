@@ -68,7 +68,7 @@
 	},
 	{ 
 		"name": "lampOff", 
-		"BeautifulName": "Lamp turned Off ", 
+		"BeautifulName": "Lamp turned Off", 
 		"faIcon": "fa fa-power-off", 
 		"iconColor": "bg-black"
 	},
@@ -86,13 +86,13 @@
 	},
 	{ 
 		"name": "temperature",
-		"BeautifulName":"New temperature measured in room.", 
+		"BeautifulName":"New temperature measured in room", 
 		"faIcon": "fa fa-sun-o", 
 		"iconColor": "bg-yellow"
 	},
 	{ 
 		"name": "humidity",
-		"BeautifulName":"New humidity measured in room.", 
+		"BeautifulName":"New humidity measured in room", 
 		"faIcon": "fa fa-tint", 
 		"iconColor": "bg-light-blue"
 	}
